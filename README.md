@@ -3,10 +3,13 @@
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-orange?logo=power-bi&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-CI%2FCD-green?logo=git&style=flat-square)
 
+
 📊 Banking Analytics Dashboard (Power BI)
 
 
+
 📌 Project Overview
+
 
 
 This project focuses on building an interactive Banking Analytics Dashboard using Power BI to analyze customer data, financial metrics, and business performance.
@@ -14,7 +17,9 @@ This project focuses on building an interactive Banking Analytics Dashboard usin
 The dashboard provides insights into customer behavior, account activity, and financial trends, enabling better decision-making for banking operations.
 
 
+
 🎯 Objectives
+
 
 
 * Analyze customer demographics and account details
@@ -26,7 +31,10 @@ The dashboard provides insights into customer behavior, account activity, and fi
 * Provide interactive visual insights for business users
 
 
+
 📂 Dataset Description
+
+
 
 The dataset includes:
 
@@ -56,6 +64,8 @@ The dataset includes:
 
 
 🔹 Visualizations
+
+<img width="1280" height="720" alt="Home Page (with icons)" src="https://github.com/user-attachments/assets/94b93cbd-1f4c-412e-9d57-ef00ad59bddc" />
 
 
 * Customer distribution by age & gender
