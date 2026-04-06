@@ -1,3 +1,8 @@
+
+![Python](https://img.shields.io/badge/Python-3.9+-yellow?logo=python&style=flat-square)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-orange?logo=power-bi&style=flat-square)
+![Git](https://img.shields.io/badge/Git-CI%2FCD-green?logo=git&style=flat-square)
+
 📊 Banking Analytics Dashboard (Power BI)
 
 
