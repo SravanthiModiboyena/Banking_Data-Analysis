@@ -1,117 +1,135 @@
 📊 Banking Analytics Dashboard (Power BI)
 
+
 📌 Project Overview
+
 
 This project focuses on building an interactive Banking Analytics Dashboard using Power BI to analyze customer data, financial metrics, and business performance.
 
 The dashboard provides insights into customer behavior, account activity, and financial trends, enabling better decision-making for banking operations.
 
+
 🎯 Objectives
 
-** Analyze customer demographics and account details
 
-** Monitor financial transactions and balances
+* Analyze customer demographics and account details
 
-** Identify key performance indicators (KPIs)
+* Monitor financial transactions and balances
 
-** Provide interactive visual insights for business users
+* Identify key performance indicators (KPIs)
+
+* Provide interactive visual insights for business users
 
 
 📂 Dataset Description
 
 The dataset includes:
 
-** Customer details (age, gender, location)
+* Customer details (age, gender, location)
 
-** Account information (type, balance)
+* Account information (type, balance)
 
-** Transaction data
+* Transaction data
 
-** Financial metrics
+* Financial metrics
+
 
 
 📊 Dashboard Features
 
+
 🔹 Key KPIs
 
---> Total Customers
 
---> Total Balance
+-> Total Customers
 
---> Average Account Balance
+-> Total Balance
 
---> Total Transactions
+-> Average Account Balance
+
+-> Total Transactions
 
 
 🔹 Visualizations
 
-** Customer distribution by age & gender
 
-** Account types breakdown
+* Customer distribution by age & gender
 
-** Transaction trends over time
+* Account types breakdown
 
-** Balance analysis by customer segments
+* Transaction trends over time
+
+* Balance analysis by customer segments
 
 
 🔹 Interactive Filters
 
---> Region / Location
 
---> Account Type
+-> Region / Location
 
---> Customer Segments
+-> Account Type
+
+-> Customer Segments
 
 
 🛠️ Tools & Technologies
 
---> Power BI – Dashboard creation
 
---> Excel / CSV – Data source
+-> Power BI – Dashboard creation
 
---> DAX – Data modeling and calculations
+-> Excel / CSV – Data source
+
+-> DAX – Data modeling and calculations
+
 
 
 ⚙️ Implementation Steps
 
-** Imported dataset into Power BI
 
-** Cleaned and transformed data using Power Query
+* Imported dataset into Power BI
 
-** Created relationships between tables
+* Cleaned and transformed data using Power Query
 
-** Built calculated measures using DAX
+* Created relationships between tables
 
-** Designed interactive dashboard with visuals and slicers
+* Built calculated measures using DAX
+
+* Designed interactive dashboard with visuals and slicers
+
 
 
 📈 Key Insights
 
---> Identified high-value customers based on account balance
 
---> Analyzed transaction trends to detect peak activity periods
+-> Identified high-value customers based on account balance
 
---> Segmented customers based on demographics and account types
+-> Analyzed transaction trends to detect peak activity periods
 
---> Provided actionable insights for improving customer engagement
+-> Segmented customers based on demographics and account types
+
+-> Provided actionable insights for improving customer engagement
+
 
 
 ✅ Key Outcomes
 
-** Improved understanding of customer financial behavior
 
-** Enabled data-driven decision-making
+* Improved understanding of customer financial behavior
 
-** Delivered a user-friendly and interactive dashboard
+* Enabled data-driven decision-making
+
+* Delivered a user-friendly and interactive dashboard
+
 
 
 🚀 Future Enhancements
 
-** Integration with real-time data sources
 
-** Advanced analytics using Python
+* Integration with real-time data sources
 
-** Predictive modeling for customer churn
+* Advanced analytics using Python
+
+* Predictive modeling for customer churn
 
 
 👤 Author
