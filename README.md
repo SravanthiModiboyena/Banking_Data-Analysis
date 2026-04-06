@@ -38,6 +38,7 @@ The dashboard provides insights into customer behavior, account activity, and fi
 
 The dataset includes:
 
+
 * Customer details (age, gender, location)
 
 * Account information (type, balance)
@@ -51,21 +52,25 @@ The dataset includes:
 📊 Dashboard Features
 
 
+
 🔹 Key KPIs
 
 
--> Total Customers
 
--> Total Balance
+* Total Customers
 
--> Average Account Balance
+* Total Balance
 
--> Total Transactions
+* Average Account Balance
+
+* Total Transactions
 
 
 🔹 Visualizations
 
+
 <img width="1280" height="720" alt="Home Page (with icons)" src="https://github.com/user-attachments/assets/94b93cbd-1f4c-412e-9d57-ef00ad59bddc" />
+
 
 
 * Customer distribution by age & gender
@@ -77,28 +82,34 @@ The dataset includes:
 * Balance analysis by customer segments
 
 
+
 🔹 Interactive Filters
 
 
--> Region / Location
 
--> Account Type
+* Region / Location
 
--> Customer Segments
+* Account Type
+
+* Customer Segments
+
 
 
 🛠️ Tools & Technologies
 
 
--> Power BI – Dashboard creation
 
--> Excel / CSV – Data source
+* Power BI – Dashboard creation
 
--> DAX – Data modeling and calculations
+* Excel / CSV – Data source
+
+* DAX – Data modeling and calculations
+
 
 
 
 ⚙️ Implementation Steps
+
 
 
 * Imported dataset into Power BI
@@ -113,20 +124,24 @@ The dataset includes:
 
 
 
+
 📈 Key Insights
 
 
--> Identified high-value customers based on account balance
 
--> Analyzed transaction trends to detect peak activity periods
+* Identified high-value customers based on account balance
 
--> Segmented customers based on demographics and account types
+* Analyzed transaction trends to detect peak activity periods
 
--> Provided actionable insights for improving customer engagement
+* Segmented customers based on demographics and account types
+
+* Provided actionable insights for improving customer engagement
+
 
 
 
 ✅ Key Outcomes
+
 
 
 * Improved understanding of customer financial behavior
@@ -137,7 +152,9 @@ The dataset includes:
 
 
 
+
 🚀 Future Enhancements
+
 
 
 * Integration with real-time data sources
