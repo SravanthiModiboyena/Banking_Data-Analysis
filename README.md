@@ -131,6 +131,8 @@ The dataset includes:
 
 * Designed interactive dashboard with visuals and slicers
 
+<img width="1280" height="720" alt="Summary" src="https://github.com/user-attachments/assets/ea4f039f-1451-4666-9e0b-a8a3cfc6ffa4" />
+
 
 #
 
