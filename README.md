@@ -6,10 +6,11 @@
 
 📊 Banking Analytics Dashboard (Power BI)
 
-
+#
 
 📌 Project Overview
 
+#
 
 
 This project focuses on building an interactive Banking Analytics Dashboard using Power BI to analyze customer data, financial metrics, and business performance.
@@ -17,9 +18,11 @@ This project focuses on building an interactive Banking Analytics Dashboard usin
 The dashboard provides insights into customer behavior, account activity, and financial trends, enabling better decision-making for banking operations.
 
 
+#
 
 🎯 Objectives
 
+#
 
 
 * Analyze customer demographics and account details
@@ -31,9 +34,11 @@ The dashboard provides insights into customer behavior, account activity, and fi
 * Provide interactive visual insights for business users
 
 
+#
 
 📂 Dataset Description
 
+#
 
 
 The dataset includes:
@@ -48,15 +53,16 @@ The dataset includes:
 * Financial metrics
 
 
+#
 
 📊 Dashboard Features
 
-
+#
 
 🔹 Key KPIs
 
 #
-#
+
 
 * Total Customers
 
@@ -66,9 +72,11 @@ The dataset includes:
 
 * Total Transactions
 
+#
 
 🔹 Visualizations
 
+#
 
 <img width="1280" height="720" alt="Home Page (with icons)" src="https://github.com/user-attachments/assets/94b93cbd-1f4c-412e-9d57-ef00ad59bddc" />
 
@@ -82,11 +90,11 @@ The dataset includes:
 
 * Balance analysis by customer segments
 
-
+#
 
 🔹 Interactive Filters
 
-
+#
 
 * Region / Location
 
@@ -94,11 +102,11 @@ The dataset includes:
 
 * Customer Segments
 
-
+#
 
 🛠️ Tools & Technologies
 
-
+#
 
 * Power BI – Dashboard creation
 
@@ -107,11 +115,11 @@ The dataset includes:
 * DAX – Data modeling and calculations
 
 
-
+#
 
 ⚙️ Implementation Steps
 
-
+#
 
 * Imported dataset into Power BI
 
@@ -124,11 +132,11 @@ The dataset includes:
 * Designed interactive dashboard with visuals and slicers
 
 
-
+#
 
 📈 Key Insights
 
-
+#
 
 * Identified high-value customers based on account balance
 
@@ -139,11 +147,11 @@ The dataset includes:
 * Provided actionable insights for improving customer engagement
 
 
-
+#
 
 ✅ Key Outcomes
 
-
+#
 
 * Improved understanding of customer financial behavior
 
@@ -152,11 +160,11 @@ The dataset includes:
 * Delivered a user-friendly and interactive dashboard
 
 
-
+#
 
 🚀 Future Enhancements
 
-
+#
 
 * Integration with real-time data sources
 
